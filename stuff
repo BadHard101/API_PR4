@@ -1,0 +1,9 @@
+https://robkendal.co.uk/blog/how-to-build-a-restful-node-js-api-server-using-json-files/ - про кастомные руты
+
+node -v
+npm install -g json-server --save
+npm install -g npm@10.2.0
+npm install -g json-server --save
+json-server --watch database.json
+
+https://my-json-server.typicode.com/
